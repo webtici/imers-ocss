@@ -1,0 +1,38 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/34/76/67/347667f6fd9902581f904f8af235f8c0.jpg');
+    background-size: auto 100vh; 
+    font-family: Harlow Solid Italic;
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+   list-style: none; 
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle, 
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+   font-style: Harlow Solid Italic;
+  }
